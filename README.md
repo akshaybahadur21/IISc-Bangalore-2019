@@ -10,7 +10,7 @@ This repository contains python notebooks for my talk at ODSC India, 2019.
 ###  Institute of Electrical and Electronics Engineers   
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRptOCCZMWf-YT11JLDagptL_nV2z_8CV27NtypT1x0bU__tP9x" width="650" > 
 
-## [Colab link](https://colab.research.google.com/drive/1Kz8gR52Yq0EPge755jHpe8ee1mLuqFcx)
+## [Colab link](https://colab.research.google.com/drive/1Kz8gR52Yq0EPge755jHpe8ee1mLuqFcx) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Kz8gR52Yq0EPge755jHpe8ee1mLuqFcx)
 
 ## [SlideShare](https://www.slideshare.net/AkshayBahadur/indian-institute-of-science-2019)
 
