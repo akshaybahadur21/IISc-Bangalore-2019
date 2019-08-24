@@ -2,7 +2,7 @@
 ## Improving efficiency for Deep Networks 
  [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Emojinator/blob/master/LICENSE.md)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 
-This repository contains python notebooks for my talk at ODSC India, 2019.
+This repository contains python notebooks for my talk at Indian Institute of Science Bangalore, 2019.
 
 ###  Indian Institute of Science, Bangalore  
   <img src="https://www.iisc.ac.in/wp-content/uploads/2017/09/IIScLogo.png" width="450" height="450" >
